@@ -177,7 +177,7 @@ hotel-booking-demand-analysis/
 
 Detailed project documentation is provided separately:
 
-**Hotel_Booking_Demand_Analysis_Documentation.pdf**
+**Hotel_Booking_Demand_Analysis_Project_Documentation.docx**
 
 It covers:
 
